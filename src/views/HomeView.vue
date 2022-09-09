@@ -29,7 +29,7 @@
 
             <div class="row">
               <div class="col-sm-12 col-md-12 col-lg-5 text-order">
-                <a class="primary-link" href="">Crimson Coffee</a>
+                <a class="primary-link" href="https://crimson-coffee.jrc-web.co.uk" target="_blank">Crimson Coffee</a>
                 <div class="description-box p-4 mt-4">
                   <span class="text-white">This is a concept webpage for a fictional coffee company.</span>
                 </div>
@@ -45,7 +45,7 @@
                 </div>
 
                 <div class="px-3 github-links">
-                  <a class="navbar-brand p-1 mx-1" href="https://verhiron.github.io/Crimson-Coffee-Webpage" target="_blank">
+                  <a class="navbar-brand p-1 mx-1" href="https://crimson-coffee.jrc-web.co.uk" target="_blank">
                     <i class="fab fa-github"></i>
                   </a>
                   <a class="navbar-brand p-1 mx-1" href="https://github.com/Verhiron/Crimson-Coffee-Webpage" target="_blank">
@@ -79,7 +79,7 @@
               <div class="col-sm-12 col-md-12 col-lg-5 text-order">
 
                 <div class="links-right">
-                  <a class="primary-link" href="">The Matterhorn</a>
+                  <a class="primary-link" href="https://matterhorn.jrc-web.co.uk" target="_blank">The Matterhorn</a>
                 </div>
 
                 <div class="description-box-reverse p-4 mt-4">
