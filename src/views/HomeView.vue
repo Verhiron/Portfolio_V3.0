@@ -10,14 +10,14 @@
           <h1>Hi, I'm James!</h1>
           <h1>I'm a full stack web developer</h1>
           <div style="margin-top: 50px; display: flex; justify-content: center">
-            <a class="scroll-btn" href="#project-body"><span class="scroll-btn-span">View My Work</span></a>
+            <a class="scroll-btn" href="#projects"><span class="scroll-btn-span">View My Work</span></a>
           </div>
         </div>
       </div>
     </div>
   </section>
 
-  <section id="project-body">
+  <section id="projects">
     <div class="container px-xlg pt-5">
       <div class="pb-4 mobile-center">
         <h2 class="heading">My Projects</h2>
