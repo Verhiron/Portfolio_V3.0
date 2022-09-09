@@ -56,7 +56,7 @@
               </div>
               <div class="col-sm-12 col-md-12 col-lg-7 image-order" style="text-align: right;">
 
-                <a href="https://verhiron.github.io/Crimson-Coffee-Webpage" target="_blank">
+                <a href="https://crimson-coffee.jrc-web.co.uk" target="_blank">
                   <img width="100%" class="img-border" src="/src/assets/images/Crimson-Coffee.png">
                 </a>
               </div>
