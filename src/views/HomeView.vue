@@ -255,6 +255,10 @@
       fill: #1b75bb;
     }
 
+    .php__svg{
+      fill: #8993be;
+    }
+
     .fa-laravel{
       color: #F05340;
     }
