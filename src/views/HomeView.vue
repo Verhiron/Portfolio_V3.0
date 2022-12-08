@@ -123,16 +123,12 @@
 
                 <div class="mt-3 mb-2 language-attributes-left">
                   <a href="#!" title="HTML5"><i class="fab fa-html5 fa-5x project-attribute-icons"></i></a>
-                  <a href="#!" title="Sass"><i class="fab fa-sass fa-5x project-attribute-icons"></i></a>
-                  <a href="#!" title="jQuery" class="jQuery">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="5em" height="4.5em" viewBox="-0.213 -0.514 285.74387 283.47476">
-                      <path fill="#1b75bb" d="M275 210c-42.2 46.2-120 51.2-181.5 9.3C30 176 7 98.3 38.8 41.6c-6.7 6-12.7 13-18 20.7C-20.2 122.8 1 209 68 255c67.3 46 155.3 34 196.6-26.4 4-6 7.5-12.2 10.4-18.6zm10.5-76.7l-1.8 2.7c-27.4 37.3-86.3 42.6-133.5 11.2C102 115 84.2 56.7 110.7 17c2-3 4.3-6 6.7-8.6l6-6-6.6 6c-5 5-10 10.8-14 17-33 49.4-19.5 116 29.8 148.8 49.3 32.8 115 18.8 147.8-30.5 0 0 3-5 5-10.4zm-100.8-32.6c27.8 19 64 15.6 84.7-6.6 2-2 4-4 5.7-7 3-4 5-8 7-12-.4 1.5-1.3 3-2.2 4-3 4.8-7 8.7-11.7 11.8-19 12.7-48 11.5-72-4.8-26.6-18.3-38-49-28.4-72.6 1-3 2.6-5.5 4.3-8 1.2-2 2.7-4 4.3-5.4-4.2 3.2-8 7.3-11 12l-.5.5c-19 28.5-9.7 68 20.5 88.5z" class="jquery__wave"></path>
-                    </svg>
-                  </a>
+                  <a href="#!" title="CSS3"><i class="fab fa-css3-alt fa-5x project-attribute-icons"></i></a>
+                  <a href="#!" title="js"><i class="fab fa-js fa-5x project-attribute-icons"></i></a>
                 </div>
 
                 <div class="px-3 github-links">
-                  <a class="navbar-brand p-1 mx-1" href="https://github.com/Verhiron/The-Matterhorn-Webpage" target="_blank">
+                  <a class="navbar-brand p-1 mx-1" href="https://github.com/Verhiron/The-MatterhornV2-0" target="_blank">
                     <i class="fab fa-github"></i>
                   </a>
                   <a class="navbar-brand p-1 mx-1" href="https://matterhorn.jrc-web.co.uk" target="_blank">
@@ -143,7 +139,7 @@
               </div>
               <div class="col-sm-12 col-md-12 col-lg-7 image-order" style="text-align: right;">
                 <a href="https://matterhorn.jrc-web.co.uk" target="_blank">
-                  <img class="img-border" width="100%" src="https://user-images.githubusercontent.com/70725429/130340200-e2a60737-a3e2-4a11-b182-c371debc9896.gif">
+                  <img class="img-border" width="100%" src="/src/assets/images/matterhorn.gif">
                 </a>
               </div>
             </div>
@@ -178,7 +174,7 @@
     vertical-align: unset;
   }
 
-  .fa-html5, .fa-css3-alt, .fa-sass, .fa-react, .fa-laravel, .fa-bootstrap{
+  .fa-html5, .fa-css3-alt, .fa-sass, .fa-react, .fa-laravel, .fa-bootstrap, .fa-js{
     color: #e9e9e9;
     margin: 12px;
   }
@@ -234,6 +230,10 @@
 
   .fa-bootstrap:hover {
     color: #401F7C;
+  }
+
+  .fa-js:hover{
+    color: #F0DB4F;
   }
 
   .jQuery:hover svg .jquery__wave, .tool__link:active svg .jquery__wave, .tool__link:focus svg .jquery__wave {
